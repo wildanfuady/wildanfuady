@@ -3,7 +3,7 @@
 Ini adalah halaman khusus untuk memperkenalkan diri saya.
 
 <pre>Nama Lengkap: Wildan Fuady
-Skil Web developer: HTML, CSS, JS, JQuary, PHP, Codeigniter, Laravel, YII
+Skil Web developer: HTML, CSS, JS, JQuery, PHP, Codeigniter, Laravel, YII
 Skil Android Developer: Kotlin, Flutter, React Native</pre>
 
 Pengalaman:
