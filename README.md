@@ -6,14 +6,15 @@ Ini adalah halaman khusus untuk memperkenalkan diri saya.
 Skil Web developer: HTML, CSS, JS, JQuary, PHP, Codeigniter, Laravel, YII
 Skil Android Developer: Kotlin, Flutter, React Native</pre>
 
-Mau menghubungi saya lebih lanjut? Bisa ke email wildanfuady@gmail.com
-
 Pengalaman:
 
 1. IlmuCoding.com as Founder
 2. RumahCoding.co.id as Trainer and Fullstack Developer
 3. Medcom VisiTama as Web and Android Developer
 4. SabilaMall.co.id as Web and Android Developer
+5. Frelance Web and Android Developer di IlmuCoding.com
+
+Mau menghubungi saya lebih lanjut? Bisa ke email wildanfuady@gmail.com
 
 Terima kasih.
 
