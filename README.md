@@ -3,7 +3,7 @@
 Ini adalah halaman khusus untuk memperkenalkan diri saya.
 
 <pre>Nama Lengkap: Wildan Fuady
-Skil Web developer: HTML, CSS, JS, JQuery, PHP, Codeigniter, Laravel, YII
+Skil Web Developer: HTML, CSS, JS, JQuery, PHP, Codeigniter, Laravel, YII, Go, Django, Vue.js, Next.js, Node.js
 Skil Android Developer: Kotlin, Flutter, React Native</pre>
 
 Pengalaman:
@@ -14,9 +14,9 @@ Pengalaman:
 4. SabilaMall.co.id as Web and Android Developer
 5. Frelance Web and Android Developer di IlmuCoding.com
 
-Portfolio (Publish & Private)
+Portfolio (Publish & Private):
 
-A. Kategori WEB Development:
+A. Kategori WEB Development
 
 1. Situs Donasi Online AlBuruj.or.id
 2. Toko Online Makanan RumahNahlaOfficial.com (Codeigniter)
@@ -48,7 +48,7 @@ A. Kategori WEB Development:
 28. Intensive English Course (PHP Native)
 29. Sistem Informasi Pakar Ayam (Codeigniter)
 
-B. Kategori Android Development:
+B. Kategori Android Development
 
 1. Jasa Booking Cuci Mobil (Kotlin + PHP Native + Mysql)
 2. Ikatan Keluarga Besar SMANSA Padang Sidimpuan (Flutter + Codeigniter + Mysql)
