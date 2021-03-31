@@ -47,6 +47,7 @@ A. Kategori WEB Development
 27. Sistem Informasi Lowongan Pekerjaan (Codeigniter)
 28. Intensive English Course (PHP Native)
 29. Sistem Informasi Pakar Ayam (Codeigniter)
+30. Sistem Informasi Usaha Bengkel Motor Berkah Bersama SP.LLI (Laravel)
 
 B. Kategori Android Development
 
