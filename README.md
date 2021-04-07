@@ -48,6 +48,7 @@ A. Kategori WEB Development
 28. Intensive English Course (PHP Native)
 29. Sistem Informasi Pakar Ayam (Codeigniter)
 30. Sistem Informasi Usaha Bengkel Motor Berkah Bersama SP.LLI (Laravel)
+31. Website Ikatan Keluarga Besar Alumni SMAN 1 Padang Sidempuan (Codeigniter 4)
 
 B. Kategori Android Development
 
