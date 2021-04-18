@@ -49,6 +49,7 @@ A. Kategori WEB Development
 29. Sistem Informasi Pakar Ayam (Codeigniter)
 30. Sistem Informasi Usaha Bengkel Motor Berkah Bersama SP.LLI (Laravel)
 31. Website Ikatan Keluarga Besar Alumni SMAN 1 Padang Sidempuan (Codeigniter 4)
+32. Website Situs Donasi Online dan Kegiatan Sosial Gebyar.or.id (Laravel)
 
 B. Kategori Android Development
 
