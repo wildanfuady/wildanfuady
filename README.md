@@ -48,8 +48,10 @@ A. Kategori WEB Development
 28. Intensive English Course (PHP Native)
 29. Sistem Informasi Pakar Ayam (Codeigniter)
 30. Sistem Informasi Usaha Bengkel Motor Berkah Bersama SP.LLI (Laravel)
-31. Website Ikatan Keluarga Besar Alumni SMAN 1 Padang Sidempuan (Codeigniter 4)
-32. Website Situs Donasi Online dan Kegiatan Sosial Gebyar.or.id (Laravel)
+31. Website Ikatan Keluarga Besar Alumni SMAN 1 Padang Sidempuan https://ikb-smansa-psp.com/ (Codeigniter 4)
+32. Website Situs Donasi Online dan Kegiatan Sosial https://gebyar.or.id (Laravel)
+33. Website Situs Donasi Online dan Kegiatan Sosial https://yayasanfortuna.or.id (Laravel)
+34. Situs Perayaan Hari Besar Islam https://phbi.manlembata.sch.id/ (Laravel)
 
 B. Kategori Android Development
 
