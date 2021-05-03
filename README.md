@@ -55,6 +55,8 @@ A. Kategori WEB Development
 35. Sistem Informasi E-Voting Mahasiswa Universitas Andalah, Padang, Sumatra Barat (Laravel)
 36. Situs Baca Buku di Indonesia Mirip Wattpadd atau Storial (Codeigniter)
 37. Situs Informasi Pendaftaran Kerja untuk Perusahaan (Codeigniter)
+38. Sistem Informasi Pembangunan Berbasis Masyarakat Bagian Report (Yii2)
+39. Sistem Informasi Pembelajaran Aksara Sunda (Codeigniter 3)
 
 B. Kategori Android Development
 
