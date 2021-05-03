@@ -38,7 +38,7 @@ A. Kategori WEB Development
 18. Wintaris Sistem Informasi Inventaris Barang (Codeigniter)
 19. Virolin Dashboard for Internet Marketing (Laravel)
 20. Online Shop Nukuniki.com (Codeigniter)
-21. Sistem Informasi Akreditasi Puskesmas (Laravel)
+21. Sistem Informasi Akreditasi Puskesmas https://akreditasifkp.com (Laravel)
 22. Web SPA Portfolio (Vue.js)
 23. Landing Page PSB Rumah Quran Ummul Quro Blora (Web Design)
 24. Sistem Informasi Persediaan Barang (Codeigniter)
@@ -52,6 +52,9 @@ A. Kategori WEB Development
 32. Website Situs Donasi Online dan Kegiatan Sosial https://gebyar.or.id (Laravel)
 33. Website Situs Donasi Online dan Kegiatan Sosial https://yayasanfortuna.or.id (Laravel)
 34. Situs Perayaan Hari Besar Islam https://phbi.manlembata.sch.id/ (Laravel)
+35. Sistem Informasi E-Voting Mahasiswa Universitas Andalah, Padang, Sumatra Barat (Laravel)
+36. Situs Baca Buku di Indonesia Mirip Wattpadd atau Storial (Codeigniter)
+37. Situs Informasi Pendaftaran Kerja untuk Perusahaan (Codeigniter)
 
 B. Kategori Android Development
 
