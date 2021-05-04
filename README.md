@@ -65,7 +65,7 @@ B. Kategori Android Development
 3. WF Store Mini Onlineshop (Flutter + PHP Native + Mysql)
 4. Temu Pakar (Flutter + Laravel + Mysql)
 5. Sabila Mall App (Flutter + Laravel + Mysql)
-6. Sistem Informasi Akreditasi Puskesmas (Flutter)
+6. Sistem Informasi Akreditasi Puskesmas (Flutter) => https://play.google.com/store/apps/details?id=com.ilmucoding.akses
 
 Mau menghubungi saya lebih lanjut? Bisa ke email wildanfuady@gmail.com
 
