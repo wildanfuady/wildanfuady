@@ -20,7 +20,7 @@ A. Kategori WEB Development
 
 1. Situs Donasi Online https://alBuruj.or.id
 2. Toko Online Makanan https://RumahNahlaOfficial.com (Codeigniter)
-3. Toko Online Busana Muslimahhttps:// DezidMom90.com (Codeigniter)
+3. Toko Online Busana Muslimah https://DezidMom90.com (Codeigniter)
 4. Company Profile Furniture https://DepokBogorFurniture.com (Laravel)
 5. Company Profile Penjualan Rumah https://RumahDepok.id (Laravel)
 6. Toko Online Gaun Pengantin https://GaunPengantinSyari.com (Codeigniter)
