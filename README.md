@@ -40,7 +40,7 @@ A. Kategori WEB Development
 20. Online Shop Nukuniki.com (Codeigniter)
 21. Sistem Informasi Akreditasi Puskesmas https://akreditasifkp.com (Laravel)
 22. Web SPA Portfolio (Vue.js)
-23. Landing Page PSB Rumah Quran Ummul Quro Blora (Web Design)
+23. Landing Page PSB Rumah Quran Ummul Quro Blora https://psbkuqiblora.alburuj.or.id/ (Web Design)
 24. Sistem Informasi Persediaan Barang (Codeigniter)
 25. Sistem Informasi Manajemen Surat (Codeigniter)
 26. Company Profile Jasa Service Air Impact Fire Bird Care (Codeigniter)
