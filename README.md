@@ -57,6 +57,7 @@ A. Kategori WEB Development
 37. Situs Informasi Pendaftaran Kerja untuk Perusahaan (Codeigniter)
 38. Sistem Informasi Pembangunan Berbasis Masyarakat Bagian Report (Yii2)
 39. Sistem Informasi Pembelajaran Aksara Sunda (Codeigniter 3)
+40. Situs Perayaan Hari Besar Islam dan Perlombaan https://phbi.manlembata.sch.id (Laravel)
 
 B. Kategori Android Development
 
