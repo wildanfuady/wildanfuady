@@ -61,11 +61,12 @@ A. Kategori WEB Development
 B. Kategori Android Development
 
 1. Jasa Booking Cuci Mobil (Kotlin + PHP Native + Mysql)
-2. Ikatan Keluarga Besar SMANSA Padang Sidimpuan (Flutter + Codeigniter + Mysql)
+2. Aplikasi Android + iOs Ikatan Keluarga Besar SMANSA Padang Sidimpuan (Flutter + Codeigniter + Mysql)
 3. WF Store Mini Onlineshop (Flutter + PHP Native + Mysql)
-4. Temu Pakar (Flutter + Laravel + Mysql)
-5. Sabila Mall App (Flutter + Laravel + Mysql)
+4. Aplikasi Android + iOs Temu Pakar (Marketplace Seminar dan Konsultasi Pakar) (Flutter + Laravel + Mysql)
+5. Aplikasi Android + iOs Sabila Mall (Ecommerce) (Flutter + Laravel + Mysql)
 6. Sistem Informasi Akreditasi Puskesmas (Flutter) => https://play.google.com/store/apps/details?id=com.ilmucoding.akses
+7. Aplikasi Android + iOs untuk Blog Tahsin.id / Webview (Flutter)
 
 Mau menghubungi saya lebih lanjut? Bisa ke email wildanfuady@gmail.com
 
