@@ -59,6 +59,8 @@ A. Kategori WEB Development
 39. Sistem Informasi Pembelajaran Aksara Sunda (Codeigniter 3)
 40. Situs Perayaan Hari Besar Islam dan Perlombaan https://phbi.manlembata.sch.id (Laravel)
 41. Sistem Pengelolaan Iuran Kas + Laporan Buku Besar, Neraca Saldo, Laba Rugi, Perubahan Modal dst https://spik.ilmukoding.com (Laravel)
+42. Simasrim https://app.simasrim.com (Laravel)
+43. Center of Strategic Policy Studies Universitas Indonesia https://strategicpolicycenter.com/ (Laravel)
 
 B. Kategori Android Development
 
