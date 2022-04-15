@@ -61,6 +61,7 @@ A. Kategori WEB Development
 41. Sistem Pengelolaan Iuran Kas + Laporan Buku Besar, Neraca Saldo, Laba Rugi, Perubahan Modal dst https://spik.ilmukoding.com (Laravel)
 42. Sistem Informasi Pengiriman Barang + Tracking (Laravel)
 43. Center of Strategic Policy Studies Universitas Indonesia https://strategicpolicycenter.com/ (Laravel)
+44. Keluarga Gaza Indonesia https://keluargagazaindonesia.com (Laravel)
 
 B. Kategori Android Development
 
