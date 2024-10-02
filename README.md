@@ -62,6 +62,7 @@ A. Kategori WEB Development
 42. Sistem Informasi Pengiriman Barang + Tracking (Laravel)
 43. Center of Strategic Policy Studies Universitas Indonesia https://strategicpolicycenter.com/ (Laravel)
 44. Keluarga Gaza Indonesia https://keluargagazaindonesia.com (Laravel)
+45. SIPPO - Sistem Informasi Perhitungan Poin dan Reward [https://ilmukoding.com/portfolio/sippo-sistem-informasi-perhitungan-poin-dan-reward](https://ilmukoding.com/portfolio/sippo-sistem-informasi-perhitungan-poin-dan-reward)
 
 B. Kategori Android Development
 
